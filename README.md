@@ -18,13 +18,13 @@ Live weather data from a variety of sources can be streamed into any ESP model.
 ### Live Weather Data
 
 This example will work with any weather service that returns a JSON message by way of an API call. A variety of sources are available and most sources have free and subscription accounts.
-I am using [OpenWeather](openweathermap.org) for my examples. [OpenWeather](openweathermap.org) provides a set of APIs that allow you to access live weather data, historical weather data, satellite imagery, and even environmental and agricultural data. 
+I am using [OpenWeather](https://openweathermap.org) for my examples. [OpenWeather](https://openweathermap.org) provides a set of APIs that allow you to access live weather data, historical weather data, satellite imagery, and even environmental and agricultural data. 
 
 ![](images/available_weather_data_60.png)
 
 #### APPID
 
-[OpenWeather](openweathermap.org) requires an APPID used in the API calls to provide access. To request your free APPID go to [https://openweathermap.org/api](https://openweathermap.org/api).
+[OpenWeather](https://openweathermap.org) requires an APPID used in the API calls to provide access. To request your free APPID go to [https://openweathermap.org/api](https://openweathermap.org/api).
 
 ### APIs
 
