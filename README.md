@@ -9,7 +9,7 @@ In this repository you will learn how to stream live weather data into any [SAS 
 * How to use event loop technology to transpose a JSON message itno ESP events
 * How to pass a parameter to a model
 
-![](videos/streaming_live_weather.mp4) 
+[![Streaming Live Weather Data](/images/streamingLiveWeather.jpg)](https://players.brightcove.net/3665946608001/default_default/index.html?videoId=6156145717001 "Streaming Live Weather Data")
 
 ## Overview
 
