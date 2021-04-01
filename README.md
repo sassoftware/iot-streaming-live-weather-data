@@ -1,5 +1,7 @@
 # Streaming Live Weather Data
 
+<img src="https://img.shields.io/badge/Category-Streaming%20Data-blue"> <img src="https://img.shields.io/badge/Sub--Category-REST%20API-yellowgreen"> <img src="https://img.shields.io/badge/Difficulty-Beginner-yellow"> <img src="https://img.shields.io/badge/Updated-Jun%202020-orange">
+
 In this repository you will learn how to stream live weather data into any [SAS Event Stream Processing](https://www.sas.com/en_us/software/event-stream-processing.html) (ESP) model. The repository also includes an [examples](examples) directory that contains sets of configuration, model, and output files.
 
 ## What You Will Learn
